@@ -1,0 +1,103 @@
+* {
+	margin:  0px;
+	padding:  0px;
+	font-family: 'Roboto', arial;
+}
+
+/* BLOCK MOVIE */
+.movie-container {
+	width: 350px;
+	min-height: 10px;
+	overflow: hidden;
+	background: #EFEFEF;
+	border:  solid 1px #DDD;
+	margin:  20px auto;
+	display: block;
+}
+
+/* HEADER */
+.header-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	height:  50px;
+	padding: 5px 10px;
+}
+
+.header-container .container-title {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: calc( 100% - 50px );
+}
+
+.header-container .container-title .title {
+	font-size: 15px;
+	font-weight: 500;
+	margin-bottom:  10px;
+}
+
+.header-container .container-title .description {
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.header-container .note {
+	width:  50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	font-size:  15px;
+	font-weight: 500;
+}
+
+.header-container .note .îmage {
+	width: 25px;
+	height: 25px;
+	margin-left: 5px;
+}
+
+/* COVER */
+.cover-container {
+	width:  100%;
+	overflow: hidden;
+}
+
+.cover-container .cover {
+	width: 100%;
+}
+
+.cover-container .button-check {
+	display: none;
+	background: #AAA;
+	height:  19px;
+    width: calc( 100% - 130px );
+    margin: 0 auto;
+    margin-top: -80px;
+    margin-bottom: 39px;
+    position: relative;
+    text-align: center;
+    padding: 10px 0px;
+    border: solid 1px #DDD;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #000;
+}
+
+.cover-container:hover .button-check {
+	display: block;
+}
+
+/* FOOTER */
+.footer-container {
+	overflow: hidden;
+}
+
+.footer-container .text {
+	padding:  20px 10px;
+	line-height: 20px;
+	font-size:  16px;
+}

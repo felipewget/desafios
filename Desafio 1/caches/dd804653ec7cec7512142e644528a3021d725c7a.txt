@@ -1,0 +1,189 @@
+{
+   "Abstract" : "",
+   "AbstractSource" : "Wikipedia",
+   "AbstractText" : "",
+   "AbstractURL" : "https://en.wikipedia.org/wiki/PHP_(disambiguation)",
+   "Answer" : "",
+   "AnswerType" : "",
+   "Definition" : "",
+   "DefinitionSource" : "",
+   "DefinitionURL" : "",
+   "Entity" : "",
+   "Heading" : "PHP",
+   "Image" : "",
+   "ImageHeight" : 0,
+   "ImageIsLogo" : 0,
+   "ImageWidth" : 0,
+   "Infobox" : "",
+   "Redirect" : "",
+   "RelatedTopics" : [
+      {
+         "FirstURL" : "https://duckduckgo.com/PHP",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "/i/709ae69b.png",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/PHP\">PHP</a> A general-purpose scripting language especially suited to web development. It was originally...",
+         "Text" : "PHP A general-purpose scripting language especially suited to web development. It was originally..."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Philippine_peso",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "/i/cfdbf314.jpg",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Philippine_peso\">Philippine peso</a>' The official currency of the Philippines.",
+         "Text" : "Philippine peso ' The official currency of the Philippines."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Partial_hospitalization",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Partial_hospitalization\">Partial hospitalization program</a>A type of program used to treat mental illness and substance abuse.",
+         "Text" : "Partial hospitalization program A type of program used to treat mental illness and substance abuse."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Parallel_History_Project",
+         "Icon" : {
+            "Height" : 16,
+            "URL" : "/i/www.php.isn.ethz.ch.ico",
+            "Width" : 16
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Parallel_History_Project\">Parallel History Project</a>An open source website reference compilation, research project, and analysis nexus sparked by the...",
+         "Text" : "Parallel History Project An open source website reference compilation, research project, and analysis nexus sparked by the..."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Penultimate_hop_popping",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Penultimate_hop_popping\">Penultimate hop popping</a>A function performed by certain routers in an MPLS enabled network.",
+         "Text" : "Penultimate hop popping A function performed by certain routers in an MPLS enabled network."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Percutaneous_hepatic_perfusion",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Percutaneous_hepatic_perfusion\">Percutaneous hepatic perfusion</a>A regionalized, minimally-invasive approach to cancer treatment currently undergoing Phase II and...",
+         "Text" : "Percutaneous hepatic perfusion A regionalized, minimally-invasive approach to cancer treatment currently undergoing Phase II and..."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Toyota_Stadium_(Texas)",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "/i/fb28ca09.jpg",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Toyota_Stadium_(Texas)\">Pizza Hut Park</a>A soccer-specific stadium with a 20,500-seat capacity, built and owned by the city of Frisco...",
+         "Text" : "Pizza Hut Park A soccer-specific stadium with a 20,500-seat capacity, built and owned by the city of Frisco..."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Primary_Health_Properties",
+         "Icon" : {
+            "Height" : 16,
+            "URL" : "/i/www.phpgroup.co.uk.ico",
+            "Width" : 16
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Primary_Health_Properties\">Primary Health Properties</a>A British-based real estate investment trust, specialising in the rental of flexible and modern...",
+         "Text" : "Primary Health Properties A British-based real estate investment trust, specialising in the rental of flexible and modern..."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/Pulsating_heat_pipe",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/Pulsating_heat_pipe\">Pulsating heat pipe</a> A heat-transfer device.",
+         "Text" : "Pulsating heat pipe A heat-transfer device."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/PHP_Family",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/PHP_Family\">PHP Family</a>A Bangladeshi conglomerate based in Chittagong.",
+         "Text" : "PHP Family A Bangladeshi conglomerate based in Chittagong."
+      },
+      {
+         "FirstURL" : "https://duckduckgo.com/PHP_pistol",
+         "Icon" : {
+            "Height" : "",
+            "URL" : "",
+            "Width" : ""
+         },
+         "Result" : "<a href=\"https://duckduckgo.com/PHP_pistol\">PHP pistol</a> The first major production pistol in Croatia, chambered in the 9\u00d719mm Parabellum cartridge.",
+         "Text" : "PHP pistol The first major production pistol in Croatia, chambered in the 9\u00d719mm Parabellum cartridge."
+      }
+   ],
+   "Results" : [],
+   "Type" : "D",
+   "meta" : {
+      "attribution" : null,
+      "blockgroup" : null,
+      "created_date" : null,
+      "description" : "Wikipedia",
+      "designer" : null,
+      "dev_date" : null,
+      "dev_milestone" : "live",
+      "developer" : [
+         {
+            "name" : "DDG Team",
+            "type" : "ddg",
+            "url" : "http://www.duckduckhack.com"
+         }
+      ],
+      "example_query" : "nikola tesla",
+      "id" : "wikipedia_fathead",
+      "is_stackexchange" : null,
+      "js_callback_name" : "wikipedia",
+      "live_date" : null,
+      "maintainer" : {
+         "github" : "duckduckgo"
+      },
+      "name" : "Wikipedia",
+      "perl_module" : "DDG::Fathead::Wikipedia",
+      "producer" : null,
+      "production_state" : "online",
+      "repo" : "fathead",
+      "signal_from" : "wikipedia_fathead",
+      "src_domain" : "en.wikipedia.org",
+      "src_id" : 1,
+      "src_name" : "Wikipedia",
+      "src_options" : {
+         "directory" : "",
+         "is_fanon" : 0,
+         "is_mediawiki" : 1,
+         "is_wikipedia" : 1,
+         "language" : "en",
+         "min_abstract_length" : "20",
+         "skip_abstract" : 0,
+         "skip_abstract_paren" : 0,
+         "skip_end" : "0",
+         "skip_icon" : 0,
+         "skip_image_name" : 0,
+         "skip_qr" : "",
+         "source_skip" : "",
+         "src_info" : ""
+      },
+      "src_url" : null,
+      "status" : "live",
+      "tab" : "About",
+      "topic" : [
+         "productivity"
+      ],
+      "unsafe" : 0
+   }
+}

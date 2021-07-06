@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>CrossKnowledge - Code challenge</title>
+</head>
+<body>
+  <script>
+    // This will create elements for testing, DO NOT change this code
+    (() => {
+
+      const MS_PER_MINUTE = 60000
+      const NOW = new Date()
+      let minutes = [0, 1, 30, 60, 6 * 60, 23 * 60, 24 * 60, 24 * 60 * 60]
+      let dates = []
+
+      minutes.forEach((i) => dates.push(new Date(NOW - i * MS_PER_MINUTE)))
+
+      dates.forEach((item) => {
+        let el = document.createElement("div")
+        el.innerHTML = "Started "
+
+        let dt = document.createElement('span')
+        dt.className = 'js-date-format'
+        dt.innerHTML = item.toISOString()
+        el.appendChild(dt)
+        document.body.appendChild(el)
+      })
+
+      // Format Sentences
+      let treatSentences = ( second ) => {
+
+        let response = null;
+        let int_value = 0;
+
+        switch(true){
+
+          case second >= 60 * 60 * 24: // A day
+            response = NOW.toISOString()
+            break;
+          case second >= 60 * 60: // A Hour
+            int_value = parseInt(second/60/60);
+            response = `${int_value} ${int_value > 1 ? `Hours` : `Hour` } ago`
+            break;
+          case second >= 60: // A minute
+            int_value = parseInt(second/60);
+            response = `${int_value} ${int_value > 1 ? `Minutes` : `Minute`} ago`
+            break;
+          default:
+            int_value = parseInt(second);
+            response = `${parseInt(int_value)} ${ int_value > 1 ? `Seconds` : `Second` } ago` 
+
+        }
+
+        return response;
+
+      }
+
+      // Refresh printed data
+      let funcReafresh = () => {
+
+        window.document.querySelectorAll(`.js-date-format`).forEach(( el, index ) => {
+
+            el.innerHTML = treatSentences( minutes[index] )
+            minutes[index]++;
+
+        })
+
+      }
+
+      // Looping between 1 sec
+      setInterval(() => {
+        funcReafresh();
+      }, 1000)
+      
+
+    })();
+  </script>
+</body>
+</html>
